@@ -3,8 +3,11 @@
 A python 
 
 #Creates a List to store the names of Colors and return size of list. 
-#Create a List, find the Greatest and Minimum value from the list. 
+
+#Create a List, find the Greatest and Minimum value from the list.
+
 #Create a List, and Shuffle the elements in random manner
+
  #Create a List, and find the sum of all the elements of a List.
 #Write a program to create a list with elements 1,2,3,4 and 5. Display even elements of the list 
  #Write a program to assign grades to students and display all the grades using keys() and get() 
